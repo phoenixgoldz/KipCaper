@@ -1,5 +1,7 @@
 # 🎩 Kip Caper and the Codex Caperis 🐨🌿
 
+![Kip Caper Title Poster](KipCaperTitleImage.png)
+
 A cel-shaded stealth action-adventure starring Kip the Koala — outsmart poachers, uncover ancient jungle relics, and restore your family's legacy one Codex fragment at a time.
 
 ## 🎮 Game Overview
